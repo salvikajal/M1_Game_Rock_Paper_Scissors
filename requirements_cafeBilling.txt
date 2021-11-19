@@ -1,0 +1,32 @@
+
+Cafe Billing system
+
+Requirements:
+
+Identifying features:
+
+This mini project on  **Cafe Billing system** based on C programming language. Cafe Billing system is designed to generatee the bills to the customer 
+which can be used in cafe,hotels,restaurants, etc. 
+
+
+State of art/Research: 
+It is tedious work for that manager to make customer's bill manually so to overcome that problem we will design the system which will helpful for
+ staff or admin to monitoring and controlling in cafe or restaurants
+.
+
+SWOT ANALYSIS:
+
+ Strengths\*Easy to use ,time saving
+ Weakness\*cant't edit existing bill after print.
+Opportunities\*Can be implemented using graphics for more interaction. 
+ Threats\*suddenly if any technical problem occurs in device then we are not able to access the system. 
+4W's and 1H:
+
+WHO- In today's life each one of us is occupied with lots of work to do and it will help manager to reduce his work load.
+WHEN- At the time of billing the customer orders
+
+What- billing system,for making bill.
+
+Where-It can be used cafe, restaurants,hotels etc.
+
+How-This application was developed in c language for the easy use.
