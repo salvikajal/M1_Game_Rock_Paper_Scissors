@@ -61,11 +61,14 @@ The game of Rock-Paper-Scissors (RPS) involves two players simultaneously choosi
 ## High  level requirements
 
 
-|    ID           | DESCRIPTION                                                                                                     |
-|----------------------|--------------------------------------------------------------------------------------------------------------
-|HLT | software requirements  : windows,Github ,Visual Studio Code, Windows Subsystem for Linux(WSL), gcc Compiler.
-|HLT2| User should put the valid requirements.
+|    ID           |          DESCRIPTION              |       Exp I/P                |    Exp O/P                                     |                                                                                                 |
+|----------------------|----------------------------|--------------------------|------------------------|--------------------------------
+|HLT | It is requirement based model User have to choose the option betwwen 1 to 4  | Enter no. | saved sucessfully                 
+|HLT2| scenario based model  user have to choose one choose one of the three object Ex.rock.paper.scissor| Enter object no.| sent sucessfully
+|HLT3| Software requirements needed: Windows, gcc,visual studio.
 
+
+## low level requirements
 
 |    ID           | DESCRIPTION                                                                                                     |
 |----------------------|--------------------------------------------------------------------------------------------------------------
