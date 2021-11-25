@@ -4,7 +4,7 @@
 
 |        FOLDER  | DESCRIPTION                                                                                                       |
 |----------------------|--------------------------------------------------------------------------------------------------------------
-|1_Requiements | software requirements  : windows,Github ,Visual Studio Code, Windows Subsystem for Linux(WSL), gcc Compiler.
-|| User should put the valid requirements.
-
-
+|1_Requiements | 
+|2_Design      | 
+|3_Implementation|
+|4_TestplanAndOutput|
