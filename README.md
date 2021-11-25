@@ -4,7 +4,7 @@
 
 |        FOLDER  | DESCRIPTION                                                                                                       |
 |----------------------|--------------------------------------------------------------------------------------------------------------
-|1_Requiements | 
-|2_Design      | 
-|3_Implementation|
-|4_TestplanAndOutput|
+|1_Requiements | Documents Detailing Requirements
+|2_Design      | Documents specifying design Details
+|3_Implementation| All code and documents
+|4_TestplanAndOutput| Documents with test plans and procedures
